@@ -1,0 +1,78 @@
+canonical_identifier: bkk:krp/KR6d0179/v1
+canonical_location: https://kanripo.org/bkk/KR6d0179/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛錍顯性錄
+  identifiers:
+    alt_id:
+    - X56n0935
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X56/X56n0935.xml
+    old_id: X56n0935
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0179_000.yaml, hash: 'sha256:f22699eb709eb43353566adba762239589c911460f7bc417d839f9e1e2bfad45'}
+  - {seq: 1, filename: KR6d0179_001.yaml, hash: 'sha256:662dc51daf926d963072247ea7ca6403c5d2c9458256b301509e3568da712b3c'}
+  - {seq: 2, filename: KR6d0179_002.yaml, hash: 'sha256:1516209e48a6ca77d99ee1e08ef0fcdf748e36cd6cedc665e7e20a2c8df3d057'}
+  - {seq: 3, filename: KR6d0179_003.yaml, hash: 'sha256:70ddd153914557686d4486a67249c3d882568fec2faa71dd867659c32c163795'}
+  - {seq: 4, filename: KR6d0179_004.yaml, hash: 'sha256:f8e6d5189d51eb837821f919123b354e20617d9d8e5b21f41da6211b73cf2883'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6d0179_001.markers.yaml, hash: 'sha256:81f439a5b9051cb5992f2d34f428fb6ea38dde4a24a1c85f9a9c3373ed02ac7d'}
+  - {seq: 2, role: markers, filename: assets/KR6d0179_002.markers.yaml, hash: 'sha256:cb25e24fcfaf5a0d35cb3ee72081b728720f7d4f922e131567ee1777d36478c2'}
+  - {seq: 3, role: markers, filename: assets/KR6d0179_003.markers.yaml, hash: 'sha256:634472639174924f851cc4750a8dddca1f22886a2b082fbf1862e42bb8dc5d71'}
+  - {seq: 4, role: markers, filename: assets/KR6d0179_004.markers.yaml, hash: 'sha256:6118bcd74ae14b26d5210ee87b32b19d538d651f3ac8ab283a43ebf6a0a48f19'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0179_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 15640
+  label: 金剛錍顯性錄卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0179_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 13678
+  label: 金剛錍顯性錄卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0179_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 15120
+  label: 金剛錍顯性錄卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0179_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 15147
+  label: 金剛錍顯性錄卷第四
+  type: juan
+  level: 1
+hash: sha256:48148ce3fa86c6413790e33ee4eb1981d0d86e62b82dfe9986f0df11884bd7a9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

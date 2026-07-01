@@ -1,0 +1,74 @@
+canonical_identifier: bkk:krp/KR6d0179/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0179/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛錍顯性錄
+  identifiers:
+    krp: KR6d0179
+    cbeta: X56n0935
+    cbeta_old_id: X56n0935
+    authorityid: CA0001617
+    json_key: X0935
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X56/X56n0935.xml
+    old_id: X56n0935
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0179_000-X.yaml, hash: 'sha256:f22699eb709eb43353566adba762239589c911460f7bc417d839f9e1e2bfad45'}
+  - {seq: 1, filename: KR6d0179_001-X.yaml, hash: 'sha256:e0d25217a9545e6ff316c0a4e3e6094301686c310cd27ad7b048b52a11851819'}
+  - {seq: 2, filename: KR6d0179_002-X.yaml, hash: 'sha256:2d88b840f89b9d34ec263f865617b013d17b47414e74a88a919ad61a883ad677'}
+  - {seq: 3, filename: KR6d0179_003-X.yaml, hash: 'sha256:36da4a7c8c09e750738e1de45a12313f94d2080dc47038e28e13d4f1c3731e4c'}
+  - {seq: 4, filename: KR6d0179_004-X.yaml, hash: 'sha256:de26b43a30805eca2f89bccdcc83669d92108bce643be79fb1ad622f28e9ad76'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0179_000-X.markers.yaml, hash: 'sha256:df0fbee1d449a62db8f5b0e7ba154271704135264bd04d42cb95d096fd78cb54'}
+  - {seq: 1, role: markers, filename: assets/KR6d0179_001-X.markers.yaml, hash: 'sha256:97f739359199feeb6dc46bdad004c8196ffd6520691f1c33c4748afa09fb5bc4'}
+  - {seq: 2, role: markers, filename: assets/KR6d0179_002-X.markers.yaml, hash: 'sha256:c8c15a1e1e35ab12df625968134a9ffa086246c0c4ce06781c754118b64e562a'}
+  - {seq: 3, role: markers, filename: assets/KR6d0179_003-X.markers.yaml, hash: 'sha256:a65b22e48c3a70039d3471493c10d8c6e34bc0d8daff7d14a60575e3658669ab'}
+  - {seq: 4, role: markers, filename: assets/KR6d0179_004-X.markers.yaml, hash: 'sha256:52fe5f53360cb228519c877b355cd65e7ffd6ccbd84d642cb03494c39d64d6e7'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0179_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 15640
+  label: 金剛錍顯性錄卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0179_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 13678
+  label: 金剛錍顯性錄卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0179_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 15120
+  label: 金剛錍顯性錄卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0179_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 15147
+  label: 金剛錍顯性錄卷第四
+  type: juan
+  level: 1
+hash: sha256:bdc547a75a824a7be2550e4a4b79aaf63462726613918686c0c6bbc2558f5b44

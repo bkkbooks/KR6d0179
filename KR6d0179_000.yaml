@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0179/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛錍顯性錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X56/X56n0935.xml
+    old_id: X56n0935
+hash: sha256:f22699eb709eb43353566adba762239589c911460f7bc417d839f9e1e2bfad45
